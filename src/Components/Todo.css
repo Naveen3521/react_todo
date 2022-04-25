@@ -1,0 +1,25 @@
+
+body{
+    background-color: rgb(34, 32, 32);
+}
+.main-row{
+    height: 100vh;
+}
+.main-col{
+    max-width: 500px;
+    min-height: 300px;
+    background-color: rgb(49, 47,47 );
+}
+.todo-done{
+    text-decoration: line-through;
+}
+
+
+.remove-btn{
+    background-color: rgb(49, 47,47 );
+}
+
+.list-desc{
+    white-space: wrap;
+    overflow: hidden;
+}
